@@ -4,7 +4,8 @@ end
 
 
 def shipping_manifest
-  the_
+  the_manifest = {
+  }
 
 
 end
